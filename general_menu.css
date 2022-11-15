@@ -1,0 +1,12 @@
+.menu{
+    width: 100%;
+    height: 2cm;
+    margin-bottom:1cm;
+    background-color: rgb(79, 0, 124);
+}
+
+.opcion_menu{
+    color: white;
+    margin: 1cm;
+
+}
